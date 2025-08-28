@@ -1,5 +1,3 @@
-# SQL
-
 # 🏎️ Formula 1 Racing Database
 
 An SQL relational database designed to model the complex world of Formula 1 racing. It captures essential entities such as drivers, teams, circuits, races, sponsors, penalties, and results—enabling multi-dimensional analysis of performance, standings, and historical trends in the sport.
@@ -75,3 +73,4 @@ Enable calculation of driver standings season by season.
 🔮 Predictive Potential – Serve as a foundation for predictive analytics (e.g., who might win based on past performance).
 
 ## 6. Entity Relationship Diagram
+![Dashboard Preview](https://github.com/YahyaB007/SQL/blob/main/Formula%201%20ERR%20Diagram.png)
